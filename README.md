@@ -1,9 +1,8 @@
-# CSC-223 Lab 4: JSON Parsing of Geometry Figures
+# CSC-223 Lab 5: Builders for JSON Parsing and Visitors Over Geometry Figure Trees
 
-Implements parsers that allow JavaScript Object Notation (JSON) to be used as an input language format to encode geometry figures.
+JSON parsing and visitor implementations which encapsulate operations like unparsing into more cohesive class implementations using Builder and Visitor design patterns.
 
 ## Credits
 
 - Michael Thomas <@michaelhthomas>
 - Michael Leiby <@bandguymichael>
-- Julia Hogg <@juliaehogg>
